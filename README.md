@@ -35,7 +35,7 @@ Businesses often struggle to interpret large volumes of sales data and extract a
 - Revenue contribution by different segments
 
 ## 📸 Dashboard Preview
-![Sales Dashboard Overview](Total Sales Main Dashboard.png)
+![Sales Dashboard Overview](https://github.com/iamnikhilsoni/Mobile-Sales-Performance-Excel-Power_Query-Power-BI/blob/51cbc9460eb7126c48599e34028154e79b7f064f/Total%20Sales%20Main%20Dashboard.png)
 
 ## 🖥️ Dashboard / Model / Output
 The dashboard includes:
