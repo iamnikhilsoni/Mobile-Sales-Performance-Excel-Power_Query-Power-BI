@@ -63,7 +63,7 @@ The dashboard helps in making data-driven decisions by providing clear insights 
 Aspiring AI/ML Engineer & Data Enthusiast  
 
 - GitHub: [https://github.com/iamnikhilsoni]
-- LinkedIn: [linkedin.com/in/iamnikhilsoni]
+- LinkedIn: [https://www.linkedin.com/in/iamnikhilsoni/]
 
 ---
 
